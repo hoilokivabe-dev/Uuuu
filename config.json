@@ -1,12 +1,12 @@
 {
-  "botName": "Habib Bot",
-  "prefix": ".",
+  "botName": "Kauwa",
+  "prefix": ",",
   "messengerLib": "@rxabdullah/xdi-fca",
   "e2ee": {
     "enable": true
   },
-  "adminIDs": ["100093182723125", ""],
-  "ownerIDs": ["100093182723125"],
+  "adminIDs": ["61592853883908", "61592778947207"],
+  "ownerIDs": ["61592853883908"],
   "language": "en",
   "theme": "dark",
   "port": 3000,
